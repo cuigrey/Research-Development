@@ -1,0 +1,4 @@
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\Export\Export\bin\Release\Export.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\Export\Export\bin\Release\Export.pdb
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\Export\Export\obj\Release\Export.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\Export\Export\obj\Release\Export.pdb

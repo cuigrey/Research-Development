@@ -1,0 +1,72 @@
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Visual Studio IX Proj.vsix
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\extension.vsixmanifest
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj.pdb
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\extension.vsixmanifest
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj_MarkupCompile.cache
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj.g.resources
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\VSPackage.resources
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj.csproj.GenerateResource.Cache
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Visual Studio IX Proj.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Visual Studio IX Proj.pkgdef
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE100.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE80.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE90.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Threading.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Validation.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\stdole.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE90a.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.MSXML.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE100.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE80.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE90.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Threading.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.Validation.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\EnvDTE90a.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\ToolWin1Control.baml
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\ToolWin1Control.g.cs
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\ToolWin1Package.cto
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\VSCT.read.1.tlog
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\VSCT.write.1.tlog
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\CtoResourceMerger.cache
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\VSPackage.resources.original
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj.pkgdef
+M:\Workspaces\TFS_Cloud_gkgkgray\CodeBench_Mainly4Experiment\HTRD\Visual Studio IX Proj\obj\Debug\Visual Studio IX Proj.latest.pkgdef

@@ -1,0 +1,4 @@
+C:\Users\Gray Cui\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\极客\Visual_Studio_IX_Proj\1.0\\Visual Studio IX Proj.dll
+C:\Users\Gray Cui\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\极客\Visual_Studio_IX_Proj\1.0\\Visual Studio IX Proj.pdb
+C:\Users\Gray Cui\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\极客\Visual_Studio_IX_Proj\1.0\\Visual Studio IX Proj.pkgdef
+C:\Users\Gray Cui\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\极客\Visual_Studio_IX_Proj\1.0\\extension.vsixmanifest

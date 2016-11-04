@@ -1,0 +1,16 @@
+﻿
+CREATE PROCEDURE dbo.usp_Insert2rtbl1m @InsertCount int
+WITH --NATIVE_COMPILATION, SCHEMABINDING, 
+	EXECUTE AS OWNER
+AS
+BEGIN --ATOMIC WITH (TRANSACTION ISOLATION LEVEL = SNAPSHOT, LANGUAGE = N'us_english')
+	DECLARE @StartId int = 1
+	WHILE @StartId <= @InsertCount
+	BEGIN
+		INSERT INTO dbo.rtbl1m VALUES (ROUND(RAND() * 10000, 2)
+										, ROUND(RAND() * 10000, 2)
+										, ROUND(RAND() * 10000, 2)
+										, N'' +  (ROUND(RAND() * 1000000, 2)) )
+		SET @StartId += 1
+	END
+END

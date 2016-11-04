@@ -1,0 +1,55 @@
+﻿<Window x:Class="DirListComparer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="960" Width="640">
+    <Grid>
+        <Button x:Name="btnCopyfromClipboard" Content="Copy from Clipboard" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="btnCopyfromClipboard_Click" />
+        <TabControl HorizontalAlignment="Left" Height="883" Margin="10,37,0,0" VerticalAlignment="Top" Width="612">
+            <TabItem Header="String Format">
+                <Grid Background="#FFFFFF">
+                    <RichTextBox HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top">
+                        <FlowDocument>
+                            <Paragraph>
+                                <Run Text="RichTextBox"/>
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Clipboard Left">
+                <Grid Background="#FFE5E5E5">
+                    <RichTextBox HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top">
+                        <FlowDocument>
+                            <Paragraph>
+                                <Run Text="RichTextBox"/>
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Clipboard Right">
+                <Grid Background="#FFE5E5E5">
+                    <RichTextBox HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top">
+                        <FlowDocument>
+                            <Paragraph>
+                                <Run Text="RichTextBox"/>
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="&lt;C1, C2&gt; => &lt;C1, Y|N&gt;">
+                <Grid Background="#FFE5E5E5">
+                    <RichTextBox HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top">
+                        <FlowDocument>
+                            <Paragraph>
+                                <Run Text="RichTextBox"/>
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

@@ -1,0 +1,52 @@
+﻿<Project Format="0.0.0.3">
+  <Version>2015-08-07T05:37:40.6324134Z</Version>
+  <Binding>True</Binding>
+  <Diagnostic>
+    <Code>12</Code>
+    <Id>CS0012</Id>
+    <Severity>Error</Severity>
+    <Message>The type 'System.IDisposable' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.</Message>
+    <MappedFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</MappedFile>
+    <MappedLine>29</MappedLine>
+    <MappedColumn>12</MappedColumn>
+    <OriginalFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</OriginalFile>
+    <OriginalLine>29</OriginalLine>
+    <OriginalColumn>12</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>12</Code>
+    <Id>CS0012</Id>
+    <Severity>Error</Severity>
+    <Message>The type 'System.Object' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.</Message>
+    <MappedFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</MappedFile>
+    <MappedLine>29</MappedLine>
+    <MappedColumn>44</MappedColumn>
+    <OriginalFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</OriginalFile>
+    <OriginalLine>29</OriginalLine>
+    <OriginalColumn>44</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>12</Code>
+    <Id>CS0012</Id>
+    <Severity>Error</Severity>
+    <Message>The type 'System.IDisposable' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.</Message>
+    <MappedFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</MappedFile>
+    <MappedLine>29</MappedLine>
+    <MappedColumn>40</MappedColumn>
+    <OriginalFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</OriginalFile>
+    <OriginalLine>29</OriginalLine>
+    <OriginalColumn>40</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>12</Code>
+    <Id>CS0012</Id>
+    <Severity>Error</Severity>
+    <Message>The type 'System.IDisposable' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.</Message>
+    <MappedFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</MappedFile>
+    <MappedLine>34</MappedLine>
+    <MappedColumn>23</MappedColumn>
+    <OriginalFile>E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\UnityServiceLocatorAdapterFixture.cs</OriginalFile>
+    <OriginalLine>34</OriginalLine>
+    <OriginalColumn>23</OriginalColumn>
+  </Diagnostic>
+</Project>

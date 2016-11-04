@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MSBuilder.Roslyn</name>
+    </assembly>
+    <members>
+        <member name="T:ThisAssembly">
+            <summary>Provides access to the current assembly information.</summary>
+        </member>
+        <member name="T:ThisAssembly.Git">
+            <summary>Provides access to the git information for the current assembly.</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.Branch">
+            <summary>Branch: master</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.Commit">
+            <summary>Commit: 62dd138</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.Sha">
+            <summary>Sha: 62dd138f49aa8db688f4689a786ee34cc388e8c3</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.Commits">
+            <summary>Commits on top of base version: 92</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.Tag">
+            <summary>Tag: v0.1.0-92-g62dd138</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.BaseTag">
+            <summary>Base tag: v0.1.0</summary>
+        </member>
+        <member name="T:ThisAssembly.Git.BaseVersion">
+            <summary>Provides access to the base version information used to determine the <see cref="T:ThisAssembly.Git.SemVer" />.</summary>      
+        </member>
+        <member name="F:ThisAssembly.Git.BaseVersion.Major">
+            <summary>Major: 0</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.BaseVersion.Minor">
+            <summary>Minor: 1</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.BaseVersion.Patch">
+            <summary>Patch: 0</summary>
+        </member>
+        <member name="T:ThisAssembly.Git.SemVer">
+            <summary>Provides access to SemVer information for the current assembly.</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.SemVer.Major">
+            <summary>Major: 0</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.SemVer.Minor">
+            <summary>Minor: 1</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.SemVer.Patch">
+            <summary>Patch: 92</summary>
+        </member>
+        <member name="F:ThisAssembly.Git.SemVer.Label">
+            <summary>Label: </summary>
+        </member>
+        <member name="F:ThisAssembly.Git.SemVer.DashLabel">
+            <summary>Label with dash prefix: </summary>
+        </member>
+        <member name="F:ThisAssembly.Git.SemVer.Source">
+            <summary>Source: Tag</summary>
+        </member>
+        <member name="T:System.Xml.Linq.DynamicXmlExtensions">
+            <summary>
+            Provides the <see cref="M:System.Xml.Linq.DynamicXmlExtensions.ToDynamic(System.Xml.Linq.XElement)"/> extension method for 
+            <see cref="T:System.Xml.Linq.XElement"/>, allowing read-only dynamic API
+            access over the underlying XML.
+            </summary>
+        </member>
+        <member name="M:System.Xml.Linq.DynamicXmlExtensions.ToDynamic(System.Xml.Linq.XElement)">
+            <summary>
+            Converts the element into a dynamic object to use 
+            dotted and indexer notation for elements and attribtes, 
+            with built-in support for <see cref="T:System.Xml.XmlConvert"/> when 
+            casting the resulting values.
+            </summary>
+            <nuget id="netfx-System.Xml.DynamicXml" />
+            <param name="xml" this="true">The xelement to access dinamically</param>
+        </member>
+        <member name="T:Microsoft.Build.Utilities.TaskExtensions">
+            <summary>
+            Provides extensions for <see cref="T:Microsoft.Build.Framework.ITask"/> that allows 
+            to efficiently access and reuse a Roslyn <see cref="T:Microsoft.CodeAnalysis.Workspace"/> 
+            and loaded <see cref="T:Microsoft.CodeAnalysis.Project"/>s across a build.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Build.Utilities.TaskExtensions.GetProject(Microsoft.Build.Framework.ITask,System.Threading.CancellationToken)">
+            <summary>
+            Gets the already loaded (and shared) instance of the current Roslyn 
+            project being built when the task executes.
+            </summary>
+            <param name="task">The task that needs to access the project.</param>
+            <param name="cancellation">Optional cancellation token to allow the calling task to cancel the operation.</param>
+            <returns>The loaded Roslyn project or <see langword="null"/> if the 
+            project language is not supported.</returns>
+        </member>
+        <member name="M:Microsoft.Build.Utilities.TaskExtensions.GetWorkspace(Microsoft.Build.Framework.ITask)">
+            <summary>
+            Gets the reusable <see cref="T:Microsoft.CodeAnalysis.Workspace"/> for the 
+            current build run.
+            </summary>
+            <param name="task">The task that needs to access the workspace.</param>
+            <returns>An already initialized and reused <see cref="T:Microsoft.CodeAnalysis.Workspace"/>, or a new one 
+            if it is the first time it is accessed.</returns>
+        </member>
+        <member name="M:Microsoft.Build.Utilities.TaskExtensions.GetOrAddProject(Microsoft.Build.Framework.ITask,System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets the already loaded (and shared) instance of the Roslyn project 
+            for the given <paramref name="projectPath"/>, or loads and initializes 
+            one.
+            </summary>
+            <param name="task">The task that needs to access the project.</param>
+            <param name="projectPath">The project full path.</param>
+            <param name="cancellation">Optional cancellation token to allow the calling task to cancel the operation.</param>
+            <returns>The loaded Roslyn project.</returns>
+        </member>
+    </members>
+</doc>

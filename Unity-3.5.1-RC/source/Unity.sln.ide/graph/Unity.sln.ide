@@ -1,0 +1,72 @@
+﻿<Solution Format="0.0.0.3">
+  <Version>2014-05-13T17:22:46Z</Version>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception\Src\Unity.Interception.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception\Src\Unity.Interception.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Configuration\Src\Unity.Configuration.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.Tests\Unity.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\MissingAssembly\MissingAssembly.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\TestNetAssembly\TestNetAssembly.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\NotReferencedTestNetAssembly\NotReferencedTestNetAssembly.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\RegistrationByConvention\Unity.RegistrationByConvention.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception\Tests\Tests.Unity.Interception\Unity.Interception.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception\Src\Unity.Interception.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\ObjectBuilder\ObjectBuilder.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Configuration\Src\Unity.Configuration.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Configuration\Tests\Unity.Configuration.Tests\Unity.Configuration.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Configuration\Src\Unity.Configuration.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception.Configuration\Src\Unity.Interception.Configuration.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception\Src\Unity.Interception.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Configuration\Src\Unity.Configuration.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception.Configuration\Tests\Tests.Unity.Interception.Configuration\Unity.Interception.Configuration.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception\Src\Unity.Interception.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Configuration\Src\Unity.Configuration.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Interception.Configuration\Src\Unity.Interception.Configuration.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.ServiceLocation.Tests\Unity.ServiceLocation.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestSupport.Unity\Unity.TestSupport.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\MissingAssembly\MissingAssembly.csproj" />
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\TestNetAssembly\TestNetAssembly.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\MissingAssembly\MissingAssembly.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\TestAssemblies\NotReferencedTestNetAssembly\NotReferencedTestNetAssembly.csproj" />
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Mvc\Src\Unity.Mvc.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.WebApi\Src\Unity.WebApi.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Tests\Unity.WebIntegration.Tests\Unity.WebIntegration.Tests.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.Mvc\Src\Unity.Mvc.csproj" />
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity.WebApi\Src\Unity.WebApi.csproj" />
+  </Project>
+  <Project Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\RegistrationByConvention\Unity.RegistrationByConvention.csproj">
+    <Reference Path="E:\TFS_gkgk.cui@outlook.com\MS_Fakes_CustomUnitTest\HTRD\Unity-3.5.1-RC\source\Unity\Src\Unity.csproj" />
+  </Project>
+</Solution>

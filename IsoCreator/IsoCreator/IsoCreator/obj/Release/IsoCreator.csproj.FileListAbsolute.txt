@@ -1,0 +1,10 @@
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\bin\Release\IsoCreator.exe
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\bin\Release\IsoCreator.pdb
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\bin\Release\Export.dll
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\bin\Release\Export.pdb
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\obj\Release\IsoCreator.csprojResolveAssemblyReference.cache
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\obj\Release\IsoCreator.Properties.Resources.resources
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\obj\Release\IsoCreator.Forms.VirtualIsoCreator.resources
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\obj\Release\IsoCreator.csproj.GenerateResource.Cache
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\obj\Release\IsoCreator.exe
+M:\Workspaces\TFS_Cloud_gkgkgray\MS_Fakes_CustomUnitTest\HTRD\IsoCreator\IsoCreator\IsoCreator\obj\Release\IsoCreator.pdb

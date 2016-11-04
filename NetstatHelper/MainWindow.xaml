@@ -1,0 +1,19 @@
+﻿<Window x:Class="NetstatHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Netstat Helper" Height="600" Width="800">
+    <Grid>
+        <DataGrid x:Name="NetstatCMDResult" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="550" Width="772">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="Net_Proto" Header="Local Protocol"/>
+                <DataGridTextColumn x:Name="Local_IP" Header="Local IP"/>
+                <DataGridTextColumn x:Name="Local_Port" Header="Local Port"/>
+                <DataGridTextColumn x:Name="Remote_IP" Header="Remote IP"/>
+                <DataGridTextColumn x:Name="Remote_Port" Header="Remote Port"/>
+                <DataGridTextColumn x:Name="Connection_State" Header="Connection State"/>
+                <DataGridTextColumn x:Name="Listener_PID" Header="PID"/>
+                <DataGridTextColumn x:Name="Listener_ImageName" Header="Image Name"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

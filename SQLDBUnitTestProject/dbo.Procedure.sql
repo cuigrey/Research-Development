@@ -1,0 +1,32 @@
+﻿CREATE PROCEDURE [dbo].[Procedure]
+	@Count int = 0
+AS
+BEGIN
+	DECLARE @X FLOAT;
+	DECLARE @Y FLOAT;
+	DECLARE @Z FLOAT;
+	DECLARE @EC INT = 0;
+	DECLARE curs1 CURSOR FOR SELECT x,y,z FROM [dbo].[rtbl1m];
+
+	OPEN curs1;
+
+	FETCH NEXT FROM curs1 INTO @X, @Y, @Z;
+
+	WHILE (@@FETCH_STATUS = 0 AND @EC < @Count)
+	BEGIN TRY
+	
+	UPDATE [dbo].[rtbl1m] SET t = t WHERE x = @X AND y = @Y AND z = @Z;
+
+	SET @EC = @EC + 1;
+	FETCH NEXT FROM curs1 INTO @X, @Y, @Z;
+	END TRY
+	BEGIN CATCH
+	CLOSE curs1;
+	DEALLOCATE curs1
+	RETURN 1;
+	END CATCH
+
+	CLOSE curs1;
+	DEALLOCATE curs1
+RETURN 0
+END
